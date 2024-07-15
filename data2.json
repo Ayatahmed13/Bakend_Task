@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "fname": "Ayat",
+        "lname": "Ahmed",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 3,
+        "fname": "shimaa",
+        "lname": "tolba",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 5,
+        "fname": "mona",
+        "lname": "mohammed",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 6,
+        "fname": "wafaa",
+        "lname": "mohammed",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 2,
+        "fname": "sherif",
+        "lname": "Ahmed",
+        "city": "cairo",
+        "age": 30
+    }
+]
